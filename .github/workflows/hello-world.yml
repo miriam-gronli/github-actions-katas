@@ -14,5 +14,5 @@ jobs:
       - name: Upload Repo
         uses: actions/upload-artifact@v2
         with:
-        name: code1
-        path: .
+          name: code1
+          path: .
